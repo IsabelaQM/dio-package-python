@@ -9,7 +9,7 @@ The package image_processing is used to:
 	<ul>- Histogram matching</ul>
 	<ul>- Structural similarity</ul>
 	<ul>- Resize image</ul>
-</li>
+	
 <li> Utils:
 
 	<ul>- Read image</ul>
@@ -17,7 +17,6 @@ The package image_processing is used to:
 	<ul>- Plot image</ul>
 	<ul>- Plot result</ul>
 	<ul>- Plot histogram</ul>
-</li>
 
 ## Installation
 
