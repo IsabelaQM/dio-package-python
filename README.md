@@ -2,18 +2,22 @@
 
 <h2>Description</h2>
 
-- The package image_processing is used to:
+The package image_processing is used to:
 
-<li>Processing:
-	<ul> - Histogram matching</ul>
+<li> Processing:
+
+	<ul>- Histogram matching</ul>
 	<ul>- Structural similarity</ul>
 	<ul>- Resize image</ul>
-Utils:
-	- Read image
-	- Save image
-	- Plot image
-	- Plot result
-	- Plot histogram
+</li>
+<li> Utils:
+
+	<ul>- Read image</ul>
+	<ul>- Save image</ul>
+	<ul>- Plot image</ul>
+	<ul>- Plot result</ul>
+	<ul>- Plot histogram</ul>
+</li>
 
 ## Installation
 
