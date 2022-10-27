@@ -6,17 +6,17 @@ The package image_processing is used to:
 
 <li> Processing:
 
-	<ul>- Histogram matching</ul>
-	<ul>- Structural similarity</ul>
-	<ul>- Resize image</ul>
+	<ul> - Histogram matching</ul>
+	<ul> - Structural similarity</ul>
+	<ul> - Resize image</ul>
 	
 <li> Utils:
 
-	<ul>- Read image</ul>
-	<ul>- Save image</ul>
-	<ul>- Plot image</ul>
-	<ul>- Plot result</ul>
-	<ul>- Plot histogram</ul>
+	<ul> - Read image</ul>
+	<ul> - Save image</ul>
+	<ul> - Plot image</ul>
+	<ul> - Plot result</ul>
+	<ul> - Plot histogram</ul>
 
 ## Installation
 
