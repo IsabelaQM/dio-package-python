@@ -8,7 +8,7 @@ The package image_processing is used to:
 
 	<ul> - Histogram matching</ul>
 	<ul> - Structural similarity</ul>
-	<ul> - Resize image</ul>
+	 - Resize image
 	
 <li> Utils:
 
