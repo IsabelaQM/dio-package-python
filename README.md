@@ -1,9 +1,17 @@
-# package_name
+# Package : image_processing
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+The package image_processing is used to:
+Processing:
+	- Histogram matching
+	- Structural similarity
+	- Resize image
+Utils:
+	- Read image
+	- Save image
+	- Plot image
+	- Plot result
+	- Plot histogram
 
 ## Installation
 
@@ -21,7 +29,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Isabela
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
